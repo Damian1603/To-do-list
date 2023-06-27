@@ -1,17 +1,14 @@
 
-## Sprawdź, jak to działa
+## Check how it works
 https://damian1603.github.io/To-do-list/
-[ Animacja.gif ] ( https://postimg.cc/Sjd8XrZv )
-[ ![ Animacja.gif ] ( https://i.postimg.cc/MK2YF31q/Animation.gif ) ] ( https://postimg.cc/Sjd8XrZv )
 
-## Technologie, których użyłem:
-- HTML
--CSS _
-- JavaScript
-- BEM
-- Siatka
+[Animation.gif](https://postimg.cc/Sjd8XrZv)
+[![Animation.gif](https://i.postimg.cc/MK2YF31q/Animation.gif)](https://postimg.cc/Sjd8XrZv)
+
+## Technologies I have used:
+
 ✨ HTML
 ✨ CSS 
 ✨ JavaScript
-✨BEM 
-✨ Siatka
+✨ BEM
+✨ Grid
