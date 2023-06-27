@@ -14,5 +14,5 @@ https://damian1603.github.io/Lista rzeczy do zrobienia/
 ✨ HTML
 ✨ CSS 
 ✨ JavaScript
-✨BEM _
+✨BEM 
 ✨ Siatka
